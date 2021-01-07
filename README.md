@@ -1,6 +1,6 @@
 # KLOWI
 
-AUTOMATICALLY CREATES A "slowed to perfection" VIDEO !
+Automatically creates a "slowed to perfection" video, with a custom description included !
 
 ## Instructions:
 1. Ensure all three Inputs are in the root directory, next to convert.sh (see below)

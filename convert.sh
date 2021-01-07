@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Starting converter...
+echo Starting KLOWI. . .
 
 # get metadata
 read -p "Song Title: " song_title

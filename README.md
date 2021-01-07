@@ -13,7 +13,9 @@ Automatically creates a "slowed to perfection" video, with a custom description 
 The script uses a [SONG TITLE], [AUTHOR], [DESCRIPTION], and [SOUNDLCOUD LINK] to generate the video metadata. It will also use the lyrics.txt file. 
 
 The generated metadata will be as follows:
+
 VIDEO TITLE: [AUTHOR] - [SONG TITLE] (slowed to perfection)
+
 VIDEO DESCRIPTION: 
 
 [DESCRIPTION]
@@ -29,6 +31,7 @@ VIDEO DESCRIPTION:
 ▶Copyright Notice: I do not in any way intend to steal the music/visuals. All credit goes to the original artist of the music in the video. I have only transformed it by adding reverb, and slowing it down, for entertainment purposes only.
 
 ▶Lyrics
+
 [lyrics.txt]
 
 ## Files In and Files Out

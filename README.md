@@ -16,7 +16,7 @@ Place in the root directory, next to convert.sh
  - lyrics.txt (all the lyrics in the song)
  
 ### Outputs:
-Will be put into a new directory /outputs/
+Will be put into a new directory /output/
  - output.mp4 (a video containing the slowed/reverbed audio and a looping gif)
  - output.wav (the actual slowed/reverbed audio)
  - metadata.txt (the generated video title and description)
